@@ -40,7 +40,13 @@ source /opt/intel/openvino_2025/setupvars.sh
 
 3.保留了auto_buff的测试程序，可以用来做测试
 
-4.我还没编译过，所以不知道还有什么bug,之后会检查和修掉，也望能有有志之士共勉
+4.运行
+```
+./build/auto_buff_test
+
+```
+做测试，注意要连着车测试。
+
 
 ---
 
